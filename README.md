@@ -184,7 +184,7 @@ $ git log --oneline --decorate --graph --all
 
 | NOMBRE | GITHUB   |
 |--------|-----------|
-| Amalia Suárez García |   asuarezg      |
-| Carlos Alberto Paz Santos  | cpazsantos|
-| José Antonio Rita Gordillo |  jaritgor |
-| Patricia Iglesias Mateos   | Pimateos  |
+| Amalia Suárez García |   [asuarezg](https://github.com/asuarezg)      |
+| Carlos Alberto Paz Santos  | [cpazsantos](https://github.com/cpazsantos)|
+| José Antonio Rita Gordillo | [jaritgor](https://github.com/jaritgor) |
+| Patricia Iglesias Mateos   | [Pimateos](https://github.com/Pimateos)  |
