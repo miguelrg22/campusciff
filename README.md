@@ -161,3 +161,21 @@ $ git add .
 $ git status  #Y compruebo que no hay problemas ahora, para así seguir con el commit.
 
 $ git commit -m "merge solucionado"
+
+## 2.20.1 Crear un tag **v0.2**.
+
+$ git tag v0.2
+
+## 2.20.2 Borrar la rama **v0.2**.
+
+$ git branch -d v0.2
+
+## 2.21 Listar los distintos commits con sus ramas y sus tags.
+
+$ git log
+
+Para ver de una forma más esquemática esos commits con sus ramas y tags.
+
+$ git log --oneline --decorate --graph --all
+
+
