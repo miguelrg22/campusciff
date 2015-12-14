@@ -122,3 +122,42 @@ $ echo "Hola" > 1.txt
 $ git add .
 
 $ git commit -m "añadido Hola a 1.txt"
+
+## 2.16 Posicionarse en la rama **v0.2** y poner _Adios_ en el fichero 1.txt y hacer commit.
+
+$ git checkout v0.2
+
+$ echo "Adios" > 1.txt
+
+$ git add .
+
+$ git commit -m "añadido Adios a 1.txt"
+
+## 2.17 Posicionarse de nuevo en la rama master y hacer merge con la rama v0.2.
+
+$ git checkout master
+
+$ git merge v0.2
+
+Se encuentra un fallo en el merge en el archivo 1.txt
+
+## 2.18 Listar las ramas con merge y las ramas sin merge.
+
+Para saber cuales están con merge
+
+$ git branch --merged  #Que es la rama master
+
+$ git branch --no-merged  #Que es v0.2
+
+
+## 2.19 Arreglar el conflicto anterior en 1.txt y hacer commit.
+
+Entro en 1.txt
+
+$ vi 1.txt  #Borro todo menos Hola.
+
+$ git add .
+
+$ git status  #Y compruebo que no hay problemas ahora, para así seguir con el commit.
+
+$ git commit -m "merge solucionado"
