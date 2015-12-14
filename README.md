@@ -115,3 +115,10 @@ $ git checkout master #Aunque me he posicionado en el paso anterior.
 
 $ git merge v0.2
 
+## 2.15 En la rama master poner _Hola_ en el fichero 1.txt y hacer commit.
+
+$ echo "Hola" > 1.txt
+
+$ git add .
+
+$ git commit -m "añadido Hola a 1.txt"
