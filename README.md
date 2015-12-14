@@ -94,3 +94,24 @@ Guardo los cambios
 $ git add .
 
 $ git commit -m "añadida rama v0.2"
+
+
+## 2.13 Subir los cambios al repositorio remoto.
+
+$ git push origin v0.2
+
+$ git checkout master
+
+$ git push origin master 
+
+Para subir todos los cambios realizados a GitHub, ya sean en la rama v0.2 como en la master. 
+
+
+## 2.14.1 Posicionarse en la rama **master**.
+
+$ git checkout master #Aunque me he posicionado en el paso anterior.
+
+## 2.14.2 Hacer _merge_ de la rama **v0.2** en la rama _master_.
+
+$ git merge v0.2
+
