@@ -54,7 +54,43 @@ $ touch .gitignore
 
 Añado a a lista de excepciones privado.txt y privada.
 
-echo privado.txt > .gitignore
+$ echo privado.txt > .gitignore
 
-echo privada/ > .gitignore
+$ echo privada/ > .gitignore
 
+Guardo los comandos en README.md y lo subo a GitHub.
+
+$ git add .
+
+$ git commit -m "completado el archivo README.md"
+
+$ git push origin master
+
+
+## 2.8 Añado un fichero *1.txt* al repositorio local.
+
+$ touch 1.txt
+
+## 2.9 Creo un **tag v0.1**.
+
+$ git tag v0.1
+
+Guardos los cambios con otro commit 
+
+$ git add .
+
+$ git commit -m "añadida etiqueta v0.1"
+
+## 2.10 Subir los cambios al repositorio remoto.
+
+$ git push --tag origin master
+
+## 2.11 Crear una **rama v0.2**.
+
+$ git branch v0.2
+
+Guardo los cambios 
+
+$ git add .
+
+$ git commit -m "añadida rama v0.2"
