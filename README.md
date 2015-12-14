@@ -178,4 +178,13 @@ Para ver de una forma más esquemática esos commits con sus ramas y tags.
 
 $ git log --oneline --decorate --graph --all
 
+## 2.24 Crear tabla de varios compañeros de clase:
 
+
+
+| NOMBRE | GITHUB   |
+|--------|-----------|
+| Amalia Suárez García |   asuarezg      |
+| Carlos Alberto Paz Santos  | cpazsantos|
+| José Antonio Rita Gordillo |  jaritgor |
+| Patricia Iglesias Mateos   | Pimateos  |
