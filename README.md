@@ -181,8 +181,9 @@ $ git log --oneline --decorate --graph --all
 
 
 
-![Observamos que sólo queda la rama master](/gitlog.jpg)
+![grafica git log](/gitlog.jpg)
 
+Observamos que sólo tiene la rama master.
 
 
 ## 2.24 Crear tabla de varios compañeros de clase:
