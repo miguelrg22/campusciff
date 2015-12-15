@@ -181,7 +181,7 @@ $ git log --oneline --decorate --graph --all
 
 
 
-![Observamos que sólo queda la rama master](/campusciff/gitlog.jpg)
+![Observamos que sólo queda la rama master](/gitlog.jpg)
 
 
 
