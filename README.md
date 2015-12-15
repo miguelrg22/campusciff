@@ -178,7 +178,7 @@ Para ver de una forma más esquemática esos commits con sus ramas y tags.
 
 $ git log --oneline --decorate --graph --all
 
-![Observamos que sólo queda la rama master][C:\Users\miguel\ejercicioGit\campusciff\gitlog.jpg]
+![Observamos que sólo queda la rama master](C:\Users\miguel\ejercicioGit\campusciff\gitlog.jpg)
 
 ## 2.24 Crear tabla de varios compañeros de clase:
 
