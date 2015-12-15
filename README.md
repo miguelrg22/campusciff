@@ -187,4 +187,29 @@ $ git log --oneline --decorate --graph --all
 | Amalia Suárez García |   [asuarezg](https://github.com/asuarezg)      |
 | Carlos Alberto Paz Santos  | [cpazsantos](https://github.com/cpazsantos)|
 | José Antonio Rita Gordillo | [jaritgor](https://github.com/jaritgor) |
-| Patricia Iglesias Mateos   | [Pimateos](https://github.com/Pimateos)  |
+| Patricia Iglesias Mateos   | [Pimateos](https://github.com/Pimateos) |
+
+
+## 2.25
+
+Ok.
+
+## 2.26
+
+Ok.
+
+## 2.27
+
+Ok.
+
+## 2.28
+
+Ok.
+
+## 2.29
+
+Ok.
+
+## 2.30
+
+Ok.
